@@ -1,7 +1,7 @@
 # bootswatch_flatly-theme
 A Bootswatch Flatly Theme for PyroCMS v3
 
-v1.0.0-alpha
+v1.0.0-dev
 
 # Installation via download:
 1: If not yet created: create directory you want to install the addon in.

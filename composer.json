@@ -11,9 +11,15 @@
         "laravel"
     ],
     "homepage": "http://enlivenapp.com/",
-    "version": "1.0.0-alpha",
+    "version": "1.0.0-dev",
     "license": "Public Domain",
     "authors": [
+        {
+            "name": "AnomalyLabs, Inc.",
+            "email": "hello@anomaly.is",
+            "homepage": "http://anomaly.is/",
+            "role": "Owner"
+        },
         {
             "name": "Enliven Applications",
             "email": "mw@enlivenapp.com",
@@ -21,18 +27,19 @@
             "role": "Owner"
         }
     ],
-    "support": {
-        "email": "mw@enlivenapp.com"
-    },
     "autoload": {
         "psr-4": {
             "Enlivenapp\\BootswatchFlatlyTheme\\": "src/"
         }
+    },
+    "support": {
+        "email": "mw@enlivenapp.com",
+        "issues": "https://github.com/enlivenapp/bootswatch_flatly-theme/issues"
     },
     "extra": {
         "branch-alias": {
             "dev-master": "1.0.x-dev"
         }
     },
-    "minimum-stability": "dev"
+    "minimum-stability": "stable"
 }

@@ -1,0 +1,38 @@
+{
+    "name": "enlivenapp/bootswatchflatly-theme",
+    "type": "streams-addon",
+    "description": "The Bootswatch Flatly theme for PyroCMS v3.",
+    "keywords": [
+        "theme",
+        "streams",
+        "bootstrap",
+        "bootswatch",
+        "flatly",
+        "laravel"
+    ],
+    "homepage": "http://enlivenapp.com/",
+    "version": "1.0.0-alpha",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Enliven Applications",
+            "email": "mw@enlivenapp.com",
+            "homepage": "http://enlivenapp.com",
+            "role": "Owner"
+        }
+    ],
+    "support": {
+        "email": "mw@enlivenapp.com"
+    },
+    "autoload": {
+        "psr-4": {
+            "Enlivenapp\\BootswatchFlatlyTheme\\": "src/"
+        }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0.x-dev"
+        }
+    },
+    "minimum-stability": "dev"
+}

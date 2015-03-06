@@ -1,5 +1,5 @@
 {
-    "name": "enlivenapp/bootswatchflatly-theme",
+    "name": "enlivenapp/bootswatch_flatly-theme",
     "type": "streams-addon",
     "description": "The Bootswatch Flatly theme for PyroCMS v3.",
     "keywords": [
@@ -12,7 +12,7 @@
     ],
     "homepage": "http://enlivenapp.com/",
     "version": "1.0.0-dev",
-    "license": "Public Domain",
+    "license": "MIT",
     "authors": [
         {
             "name": "AnomalyLabs, Inc.",

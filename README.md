@@ -5,6 +5,7 @@ v1.0.0-alpha
 
 # Installation via download:
 1: If not yet created: create directory you want to install the addon in.
+
 2: Copy to: `/addons/shared/enlivenapp/`  -OR-  `/addons/[SITE_REF]/enlivenapp/`  
 
     full path should look like

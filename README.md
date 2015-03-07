@@ -14,6 +14,11 @@ v1.0.0-dev
 
 3: `Dashboard->System->Settings` click `BootswatchFlatlyTheme` from the dropdown menu under 'Standard Theme' (bottom of page) and Save.
 
+# What's included:
+ - Bootstrap 3
+ - Bootswatch Flatly 
+ - Font Awesome
+
 
 # Help
 

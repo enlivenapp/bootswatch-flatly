@@ -8,7 +8,8 @@
         "bootstrap",
         "bootswatch",
         "flatly",
-        "laravel"
+        "laravel",
+        "pyrocms"
     ],
     "homepage": "http://enlivenapp.com/",
     "version": "1.0.0-dev",
